@@ -39,6 +39,7 @@ public class MainMenu extends JFrame {
 
 	public String Frickety_Frick(String WTF){
 		String repo = "repo hell";
+		repo += "and more";
 		return repo;
 		
 	}
